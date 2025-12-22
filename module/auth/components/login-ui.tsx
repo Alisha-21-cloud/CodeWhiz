@@ -46,8 +46,8 @@ const LoginUI = () => {
         <div className="flex-1 flex flex-col justify-center items-center px-12 py-16">
             <div className="w-full max-w-sm">
                 <div className="mb-12">
-                    <h2 className="text-3xl font-bold mb-2">Welcome Back</h2>
-                    <p className="text-gray-400">Login using one of the following providers:</p>
+                    <h2 className="text-3xl font-bold mb-2">Welcome</h2>
+                    <p className="text-gray-400">Connect your account to continue</p>
                 </div>
 
                 {/* GitHub Login Button */}
@@ -63,9 +63,9 @@ const LoginUI = () => {
                 {/* Footer Links */}
                 <div className="space-y-4 text-center text-sm text-gray-400">
                     <div>
-                        New to CodeWhiz?{" "}
+                        Review your PRs using{" "}
                         <a href="#" className="text-primary hover:text-primary-foreground font-semibold">
-                            Sign Up
+                            CodeWhiz
                         </a>
                     </div>
                     <div>

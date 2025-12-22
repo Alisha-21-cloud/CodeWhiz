@@ -43,11 +43,11 @@ export const AppSidebar = () => {
             url: "/dashboard/reviews",
             icon: BookOpen,
         },
-        {
-            title: "Subscription",
-            url: "/dashboard/subscription",
-            icon: BookOpen,
-        },
+        // {
+        //     title: "Subscription",
+        //     url: "/dashboard/subscription",
+        //     icon: BookOpen,
+        // },
         {
             title: "Settings",
             url: "/dashboard/settings",
