@@ -120,7 +120,7 @@ const MainPage = () => {
         </CardContent>
       </Card>
 
-      <div className='grid gap-4 md:grid-cols-2'>
+      {/* <div className='grid gap-4 md:grid-cols-2'>
         <Card className='col-span-2'>
           <CardHeader>
             <CardTitle>Activity Overview</CardTitle>
@@ -155,7 +155,7 @@ const MainPage = () => {
             }
           </CardContent>
         </Card>
-      </div>
+      </div> */}
     </div>
   )
 }
